@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  text-align: center;
+}
+.heading-style {
+  color: #2d3a35;
+}
+.number-style {
+  color: #c20a72;
+}
+.paragraph-style {
+  color: #2d3a35;
+}
+.style-button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: solid 0px;
+  height: 30px;
+  width: 80px;
+}
